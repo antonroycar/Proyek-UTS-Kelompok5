@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+* {
+  font-family: Ubuntu;
+}
+#media {
+  padding-bottom: -3rem;
+}
+.jumbotron {
+  padding-top: 6rem;
+  /* background-color: #e3f2fd; */
+}
+#about {
+  padding-top: 7rem;
+  background-color: #e3f2fd;
+}
+footer {
+  padding-top: 3rem;
+}
+#media {
+  padding-top: 6rem;
+}
+#civitas {
+  padding-top: 6rem;
+}
+#achievement {
+  padding-top: 6rem;
+  background-color: #e3f2fd;
+}
+#information {
+  padding-top: 6rem;
+  background-color: #e3f2fd;
+}
+#contact {
+  padding-top: 6rem;
+}
+@media screen and (max-width: 990px) {
+  .logo {
+    margin-left: -80px;
+  }
+}
+#team {
+  padding-top: 6rem;
+}
+#information1 {
+  padding-top: 1rem;
+}
